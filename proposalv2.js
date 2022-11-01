@@ -1,11 +1,4 @@
 
-   alert("Your Device Is Hacked!")
-   alert("Don't Panic It's Romantic!")
-   alert("Hi Ganda!")
-   alert("Kumain kana?")
-   alert("Sorry pafall!")
-   confirm("do you love me?")
-  
 
 
 const no = document.getElementById("btn2");
